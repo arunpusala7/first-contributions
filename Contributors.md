@@ -1,6 +1,7 @@
 # Contributors
 - [HRITIK KUMAR](https://github.com/Hritik-Kumar-dev) -  hii  my name is hritik kumar i am from india .
 - [Derbadunkadunk](https://github.com/DerBadunkadunk) - Hello github and here is my first contribution.
+- [arunpusala7](https://github.com/arunpusala7)- This is the time to do something meaningful in coding life by contributing in opensource projects 
 - [Francis](francisvfx.carrd.co)(https://github.com/francisdav1d)
 - [Yanshi Sharma] (https://github.com/yanshiii) - My first open src contri! Lesgo!
 - [Hani Gannam](https://github.com/HaniGannam) - My First Contribution to the open source world :0
